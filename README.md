@@ -7,15 +7,15 @@ Reach me: X · LinkedIn · Telegram · Email
 
 About
 
-🔨 Lead developer at Zyra, a Solana vault crowdfunding dApp
+- Lead developer at Zyra, a Solana vault crowdfunding dApp
 
-🎓 Computer Science student at Imo State University
+- Computer Science student at Imo State University
 
-⚙️ About a year of hands-on Solidity across DeFi, stablecoin payments and AI-agent products
+- About a year of hands-on Solidity across DeFi, stablecoin payments and AI-agent products
 
-🧪 Unit tests, fuzz tests, and reentrancy-attack tests that deploy a malicious contract
+- Unit tests, fuzz tests, and reentrancy-attack tests that deploy a malicious contract
 
-🌱 Learning Rust / Anchor and getting into smart contract security
+- Learning Rust / Anchor and getting into smart contract security
 Stack
 
 
@@ -29,7 +29,7 @@ Backend
 Node.js / Express, Python / FastAPI, Supabase
 
 Networks
-Arbitrum, Monad, Avalanche, Arc, Solana, Ethereum
+Arbitrum, Monad, Avalanche, Arc, Solana, Ethereum, bnb 
 Featured projects
 
 Project
