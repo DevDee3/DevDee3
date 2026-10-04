@@ -19,7 +19,9 @@ Stack
 
 
 Contracts
+
 Solidity, Foundry, ERC-4337, ERC-7715 / ERC-7710
+
 Frontend
 Next.js, TypeScript, Tailwind CSS, viem, wagmi, WalletConnect, Privy
 Backend
