@@ -11,3 +11,33 @@ About
 🌱 Learning Rust / Anchor and getting into smart contract security
 Stack
 
+
+Contracts
+Solidity, Foundry, ERC-4337, ERC-7715 / ERC-7710
+Frontend
+Next.js, TypeScript, Tailwind CSS, viem, wagmi, WalletConnect, Privy
+Backend
+Node.js / Express, Python / FastAPI, Supabase
+Networks
+Arbitrum, Monad, Avalanche, Arc, Solana, Ethereum
+Featured projects
+Project
+What it does
+Live
+Tabline
+Recurring and pay-per-use stablecoin payments on Arbitrum, using scoped revocable spend permissions instead of unlimited approvals
+Open
+Metroly
+Group expenses and settlement on Monad, settling with the fewest onchain transfers. Passkey login, no seed phrase
+Open
+Cadence
+Autonomous DeFi position agent on Arc. An LLM proposes, an on-chain PolicyModule decides
+Open
+AegisX
+AI-assisted wallet security layer on Avalanche with deterministic allow / delay / block verdicts
+Open
+Recall Chain
+AI due-diligence agent for crypto contracts that remembers every scan
+Open
+Open to
+Solidity / smart contract engineering roles, contract work and hackathon teams. The fastest way to reach me is X, Telegram or email.
