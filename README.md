@@ -1,4 +1,5 @@
 Hi, I'm Dev Dee 👋
+
 Solidity / Smart Contract Engineer · Nigeria 🇳🇬
 I write and test smart contracts with Foundry, and ship each one with a working Next.js frontend. I like designs where on-chain rules stay the final authority and AI only advises.
 Reach me: X · LinkedIn · Telegram · Email
